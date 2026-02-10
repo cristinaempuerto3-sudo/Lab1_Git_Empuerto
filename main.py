@@ -1,3 +1,7 @@
 print("Lab 1: Version Control")
 print("Author: [CRISTINA EMPUERTO]")
 print("Student ID: TUPM-25-0764")
+print("Lab 1: Version Control")
+print("Author: Cristina Empuerto")
+print("Student ID: TUPM-25-0764")
+print("Class Section: [BSME 1C]")
